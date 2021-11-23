@@ -309,7 +309,9 @@ nav.show div.icon-close {
 #about {
   background: white;
 }
-
+#about .text p {
+  margin-bottom: 2rem;
+}
 #about .container {
   margin: 0;
 }
